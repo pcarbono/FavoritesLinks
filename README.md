@@ -24,7 +24,7 @@ The frontend development of this project has been carried out using React, a Jav
 
 ## Screenshots
 
-![Screenshot 1](/public/screenshot.png)
+![Screenshot 1](/src/public/img/screenshot.png)
 
 ## Contributions
 
