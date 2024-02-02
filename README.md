@@ -1,6 +1,6 @@
 # Favorites Links
 
-Welcome to Favorites Links! This integrative project showcases the culmination of my skills in databases, Tailwind CSS, and React. Designed as an exercise to effectively utilize these technologies and create a dynamic and user-friendly application. Explore the features, delve into the code, and feel free to contribute!
+Welcome to Favorites Links! This integrative project showcases my skills in databases, Tailwind CSS, and React. Designed as an exercise to effectively utilize these technologies and create a dynamic and user-friendly application. Explore the features, delve into the code, and feel free to contribute!
 
 ## Features
 
